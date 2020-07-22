@@ -18,7 +18,7 @@ Este projeto apenas um simulado de tarifas eletronicas, os dados são fictions, 
 
 ## Como installar
 
-# Digite no terminal na ordem
+### Digite no terminal na ordem
 
 <ol>
   <li>git clone (https://github.com/GustavoDev764/Telefonia-Telzir.git)<li>

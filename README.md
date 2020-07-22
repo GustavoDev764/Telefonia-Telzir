@@ -25,7 +25,7 @@ Este projeto apenas um simulado de tarifas eletronicas, os dados são fictions, 
   <li>cd Telefonia-Telzir</li>
   <li>npm install</li>
   <li>npm start</li>
-<ol>
+</ol>
 
 Logos apos os passo abra no seu navegado http://localhost:3000/
 

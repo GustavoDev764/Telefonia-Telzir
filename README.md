@@ -21,9 +21,9 @@ Este projeto apenas um simulado de tarifas eletronicas, os dados são fictions, 
 ### Digite no terminal na ordem
 
 <ol>
-  <li>git clone (https://github.com/GustavoDev764/Telefonia-Telzir.git)<li>
-  <li>cd Telefonia-Telzir<li>
-  <li>npm install<li>
+  <li>git clone (https://github.com/GustavoDev764/Telefonia-Telzir.git)</li>
+  <li>cd Telefonia-Telzir</li>
+  <li>npm install</li>
 <ol>
 
 ## :memo: Licença
